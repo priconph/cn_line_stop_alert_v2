@@ -1,0 +1,2 @@
+1. comment the feature that allows user to select recipient by template
+2. set system to select template 13 (pkid) as the "FIX" template to be used
